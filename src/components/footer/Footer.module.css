@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  height: 59px;
+  padding: 20px 100px;
+}
+
+.navItem {
+  margin: 0;
+  text-align: left;
+  color: #000;
+  font-size: 0.9em;
+  font-weight: 500;
+  margin-bottom: 5px;
+  padding-left: 25px;
+  cursor: pointer;
+}
+
+.logo{
+  height: 47px;
+  width: 150px;
+}

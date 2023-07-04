@@ -1,0 +1,49 @@
+.container {
+  background: #ffca00 url("../../assets/images/second-background.png") no-repeat;
+  display: flex;
+  flex-direction: column;
+  padding: 0 100px;
+  padding-bottom: 100px;
+  margin-top: 700px;
+}
+
+.headline {
+  font-size: 3em;
+  letter-spacing: 0.04em;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: black;
+  font-weight: 900;
+  width: 1200px;
+  text-transform: uppercase;
+}
+
+.card {
+  width: 500px;
+  padding: 7px 27px;
+  background-color: white;
+  margin-bottom: 40px;
+}
+
+.cardTitle {
+  margin: 0;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  color: #e63d3d;
+}
+
+.cardText {
+  margin: 0;
+  color: #000;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  text-align: center;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
